@@ -21,8 +21,8 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is as followed {count}
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+        <p className="textStyle">
+           Hi.. Welcome to Karishma's WebPage!!
         </p>
       </div>
       <p className="read-the-docs">

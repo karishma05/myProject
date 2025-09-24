@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.textStyle{
+    font-weight: bold;
+    font-style: italic;
+    color: #002979;
+    font-size: 18px;
+}
